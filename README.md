@@ -3,7 +3,7 @@ Project of Cloud Computing and Big Data Analytics (CCBDA) Course for the Master 
 ***
 ## System's Architecture
 The architecture and the design of the system are depicted in the following figure:
-![](designs/ccbda-final.png)
+![](designs/ccbda.drawio.png)
 ***
 ## AWS Lambda:
 Implementation of data acquitition and preprocessing is completed with `AWS Lambda` functions. During the development of the project the following 4 steps were implemented with the usage of the `Lambda AWS Service`:
